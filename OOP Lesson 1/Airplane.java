@@ -13,7 +13,7 @@ public class Airplane {
   /**
   * The Airplane method constructs an airplane.
   */
-  public Aiplane() {
+  public Airplane() {
   }
   
   // Getters
@@ -24,7 +24,7 @@ public class Airplane {
   
   // Setters
   
-  public void setSpeed(String newSpeed) {
+  public void setSpeed(int newSpeed) {
     this.speed = newSpeed;
   }
 }
